@@ -1,0 +1,6 @@
+C:\Users\VRHC\source\repos\Prova_teste4-fase2\Prova_teste4-fase2\bin\Debug\Prova_teste4-fase2.exe.config
+C:\Users\VRHC\source\repos\Prova_teste4-fase2\Prova_teste4-fase2\bin\Debug\Prova_teste4-fase2.exe
+C:\Users\VRHC\source\repos\Prova_teste4-fase2\Prova_teste4-fase2\bin\Debug\Prova_teste4-fase2.pdb
+C:\Users\VRHC\source\repos\Prova_teste4-fase2\Prova_teste4-fase2\obj\Debug\Prova_teste4-fase2.csprojAssemblyReference.cache
+C:\Users\VRHC\source\repos\Prova_teste4-fase2\Prova_teste4-fase2\obj\Debug\Prova_teste4-fase2.exe
+C:\Users\VRHC\source\repos\Prova_teste4-fase2\Prova_teste4-fase2\obj\Debug\Prova_teste4-fase2.pdb
